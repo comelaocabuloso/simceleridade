@@ -1,0 +1,3 @@
+@echo off
+echo Soltando simceleridade...
+start index.html

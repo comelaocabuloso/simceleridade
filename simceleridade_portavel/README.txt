@@ -1,0 +1,1 @@
+Esta estrutura está pronta para ser solta em qualquer espaço virtual. Acesse index.html para iniciar.
